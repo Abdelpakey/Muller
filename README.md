@@ -9,7 +9,7 @@ by Zhengzhong Tu, Peyman Milanfar, and Hossein Talebi
 
 
 
-[This is a sample of results(the image was taken from the original repo)](images/results.jpg)
+![This is a sample of results(the image was taken from the original repo)](images/results.jpg)
 
 ## How to run?
 
