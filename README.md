@@ -8,6 +8,8 @@ by [Zhengzhong Tu](https://www.linkedin.com/in/vztu/), [Peyman Milanfar](https:/
 ![Disclaimer: This is not an official Google product.](images/overview.png)
 
 
+This is a sample of results(the image was taken from the original repo)
+Left: the orignal image   Right: is the resized image by Muller
 
 ![This is a sample of results(the image was taken from the original repo)](images/results.jpg)
 
