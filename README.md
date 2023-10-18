@@ -1,7 +1,7 @@
 # Muller
 This is my Pytorch implementation of the paper [MULLER: Multilayer Laplacian Resizer for Vision](https://arxiv.org/abs/2304.02859)
 
-by Zhengzhong Tu, Peyman Milanfar, and Hossein Talebi
+by [Zhengzhong Tu](https://www.linkedin.com/in/vztu/), [Peyman Milanfar](https://sites.google.com/view/milanfarhome/), and [Hossein Talebi](https://scholar.google.com/citations?hl=en&user=UOX9BigAAAAJ)
 
 [The original Tensorflow implemtation repo is here](https://github.com/google-research/google-research/tree/master/muller)
 
